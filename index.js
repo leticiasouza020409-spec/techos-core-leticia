@@ -127,4 +127,4 @@ gerenciador.criarOrdemServico(1, clienteAna, tecnicoCarlos, "Troca de Tela");
 console.log("[SISTEMA] Lista de OS ativas:");
 console.log(JSON.stringify(gerenciador.listarOrdensAtivas(), null, 2));
 
-console.log("===================================================================================");
+console.log("===================================================================================");// Pull Request finalizado
